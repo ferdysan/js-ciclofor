@@ -1,5 +1,5 @@
 //inizializzo un array con una lista di mail
-var mail = ['prova@prova.it','fer.one@hotmail.it','ferdysan87@gmail.com'];
+var mail = ['lucia@test.it','fer.one@hotmail.it','ferdysan87@gmail.com'];
 //chiedo all'utente di inserire una mail
 var utente = prompt('Inserisci la tua mail');
 
